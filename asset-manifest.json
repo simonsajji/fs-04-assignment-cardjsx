@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fs-04-assignment-cardjsx/static/css/main.6cac5948.css",
+    "main.js": "/fs-04-assignment-cardjsx/static/js/main.fc744560.js",
+    "static/js/787.367cb6b9.chunk.js": "/fs-04-assignment-cardjsx/static/js/787.367cb6b9.chunk.js",
+    "static/media/logo.svg": "/fs-04-assignment-cardjsx/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fs-04-assignment-cardjsx/index.html",
+    "main.6cac5948.css.map": "/fs-04-assignment-cardjsx/static/css/main.6cac5948.css.map",
+    "main.fc744560.js.map": "/fs-04-assignment-cardjsx/static/js/main.fc744560.js.map",
+    "787.367cb6b9.chunk.js.map": "/fs-04-assignment-cardjsx/static/js/787.367cb6b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cac5948.css",
+    "static/js/main.fc744560.js"
+  ]
+}
